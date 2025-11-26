@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "线性结构前仆后继", "线性结构前仆后继.vcxproj", "{C8858211-D132-48C3-8CC4-B40FBEE2D086}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8858211-D132-48C3-8CC4-B40FBEE2D086}.Debug|x64.ActiveCfg = Debug|x64
+		{C8858211-D132-48C3-8CC4-B40FBEE2D086}.Debug|x64.Build.0 = Debug|x64
+		{C8858211-D132-48C3-8CC4-B40FBEE2D086}.Debug|x86.ActiveCfg = Debug|Win32
+		{C8858211-D132-48C3-8CC4-B40FBEE2D086}.Debug|x86.Build.0 = Debug|Win32
+		{C8858211-D132-48C3-8CC4-B40FBEE2D086}.Release|x64.ActiveCfg = Release|x64
+		{C8858211-D132-48C3-8CC4-B40FBEE2D086}.Release|x64.Build.0 = Release|x64
+		{C8858211-D132-48C3-8CC4-B40FBEE2D086}.Release|x86.ActiveCfg = Release|Win32
+		{C8858211-D132-48C3-8CC4-B40FBEE2D086}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D83AE78-5E71-4171-9788-1648BF2BDA6B}
+	EndGlobalSection
+EndGlobal

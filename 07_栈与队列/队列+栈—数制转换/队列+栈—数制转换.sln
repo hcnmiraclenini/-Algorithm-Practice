@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "队列+栈—数制转换", "队列+栈—数制转换.vcxproj", "{51CB380F-9E0A-4506-A003-6A1C25B5536B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51CB380F-9E0A-4506-A003-6A1C25B5536B}.Debug|x64.ActiveCfg = Debug|x64
+		{51CB380F-9E0A-4506-A003-6A1C25B5536B}.Debug|x64.Build.0 = Debug|x64
+		{51CB380F-9E0A-4506-A003-6A1C25B5536B}.Debug|x86.ActiveCfg = Debug|Win32
+		{51CB380F-9E0A-4506-A003-6A1C25B5536B}.Debug|x86.Build.0 = Debug|Win32
+		{51CB380F-9E0A-4506-A003-6A1C25B5536B}.Release|x64.ActiveCfg = Release|x64
+		{51CB380F-9E0A-4506-A003-6A1C25B5536B}.Release|x64.Build.0 = Release|x64
+		{51CB380F-9E0A-4506-A003-6A1C25B5536B}.Release|x86.ActiveCfg = Release|Win32
+		{51CB380F-9E0A-4506-A003-6A1C25B5536B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E9D0001-2C59-42CC-B46D-E6F06CCA6BDD}
+	EndGlobalSection
+EndGlobal
